@@ -169,7 +169,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: de8030571d1930844918df72164cdab3, type: 2}
+  - {fileID: 2100000, guid: afb37cb875ba2e34aa29c1353511e9b6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -227,7 +227,7 @@ GameObject:
   - component: {fileID: 3679809189308762909}
   - component: {fileID: 5716098591838354399}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: Foglie
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -276,7 +276,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 220b7e51228dc1649b03ea8a59aad430, type: 2}
+  - {fileID: 2100000, guid: 1b933d6bbbfbe6d4ba5cbfccdea88807, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -381,7 +381,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: de8030571d1930844918df72164cdab3, type: 2}
+  - {fileID: 2100000, guid: afb37cb875ba2e34aa29c1353511e9b6, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
